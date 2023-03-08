@@ -22,3 +22,47 @@
     color: violet;
 }
 
+.button1 {
+    border-radius: 20px;
+    border-color: orange;
+}
+
+.button2 {
+    border-width: 5px;
+    color: blueviolet;
+}
+
+.button3 {
+    text-decoration: wavy;
+    text-decoration-color: brown;
+}
+
+.button4 {
+    color: palevioletred;
+    border-color: paleturquoise;
+}
+
+.button5 {
+    padding: 20px 45px;
+    color: palegreen;
+}
+
+.button6 {
+    font-size: 70px;
+    background-color: yellowgreen;
+}
+
+.button7 {
+    padding: 12%;
+    background-color: royalblue;
+}
+
+.button8 {
+    border-radius: 100px;
+    color: cornflowerblue;
+}
+
+.button9 {
+    border-width: 20px;
+    border-style: dashed;
+}
