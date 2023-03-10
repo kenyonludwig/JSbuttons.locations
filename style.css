@@ -1,68 +1,77 @@
 .demo {
     background-color: gray;
-}
-
-.divElement {
+  }
+  
+  .divElement {
     font-size: larger;
-}
-
-.div123 {
+  }
+  
+  .div123 {
     font-size: smaller;
-}
-
-.findMe {
+  }
+  
+  .findMe {
     text-align: center;
-}
-
-.orderGoods {
+  }
+  
+  .orderGoods {
     background-color: lightblue;
-}
-
-.dot {
-    color: violet;
-}
-
-.button1 {
+  }
+  
+  .dot {
+    height: 50px;
+    width: 50px;
+    background-color: violet;
+    border-radius: 50%;
+    display: inline-block;
+  }
+  
+  .button1 {
     border-radius: 20px;
     border-color: orange;
-}
-
-.button2 {
+  }
+  
+  .button2 {
     border-width: 5px;
     color: blueviolet;
-}
-
-.button3 {
+  }
+  
+  .button2:hover {
+    box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  }
+  
+  .button3 {
     text-decoration: wavy;
     text-decoration-color: brown;
-}
-
-.button4 {
+  }
+  
+  .button4 {
     color: palevioletred;
     border-color: paleturquoise;
-}
-
-.button5 {
+  }
+  
+  .button5 {
     padding: 20px 45px;
     color: palegreen;
-}
-
-.button6 {
+  }
+  
+  .button6 {
     font-size: 70px;
     background-color: yellowgreen;
-}
-
-.button7 {
+  }
+  
+  .button7 {
     padding: 12%;
     background-color: royalblue;
-}
-
-.button8 {
+  }
+  
+  .button8 {
     border-radius: 100px;
     color: cornflowerblue;
-}
-
-.button9 {
+  }
+  
+  .button9 {
     border-width: 20px;
     border-style: dashed;
-}
+  }
+  
